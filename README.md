@@ -10,7 +10,9 @@ Creating and minting tokens involves gas fees (transaction fees) and requires so
 
 Using Remix IDE, a online development environment for Ethereum smart contracts, execute the provided Solidity smart contract by creating a new file, pasting the code, compiling it using the Solidity Compiler tab, deploying it to a chosen Ethereum network via the Deploy & Run Transactions tab, and subsequently interacting with its functions, allowing us to test and validate the contract's behavior comprehensively.
 
+
 Code:
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
